@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.17.3",
-    "date-fns": "^2.25.0",
+    "date-fns": "^2.26.0",
     "lodash": "^4.17.21",
     "vue": "^3.2.19"
   },

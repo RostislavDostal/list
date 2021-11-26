@@ -1,0 +1,19 @@
+@use 'sass/color';
+
+.data-card {
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+
+.row-buttons {
+  margin-left: 10px;
+}
+
+.item-found {
+  color: color.$found;
+}
